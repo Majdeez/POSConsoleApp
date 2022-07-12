@@ -51,6 +51,9 @@ namespace POS
                     break;
             }
         }
+        
+        //no way
+        
         public void CustomerOperation()
         {
             DisplayItem();
